@@ -1,4 +1,4 @@
-# Storj Docs
+# Storj Docs 2
 
 Source code for <https://storj.dev>
 
